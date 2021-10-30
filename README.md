@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hello, I am Suhas RK <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I'm a Computer Science Student pursuing my B.Tech from PES University, India. Passionate about Web development and Data analytics. 
+I'm a Computer Science Student pursuing my B.Tech from PES University, India. Passionate about Network Security and Cyber forensics
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
